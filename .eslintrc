@@ -1,0 +1,8 @@
+{
+  "rules": {
+    "node/prefer-global/process": "off"
+  },
+  "env": {
+    "node": true
+  }
+}
